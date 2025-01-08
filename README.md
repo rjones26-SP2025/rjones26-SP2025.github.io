@@ -1,10 +1,10 @@
 # rjones26-SP2025.github.io
 
-# Assignment instructions:
-# - introduce yourself
-# - Include your name
-# - favorite animal
-# - something you are interested in learning this semester
+Assignment instructions:
+ - introduce yourself
+ - Include your name
+ - favorite animal
+ - something you are interested in learning this semester
 
 Hello, my name is Roy Jones.  A few of you may ask, the boxer?, and the answer would be no.
 I would like to start with what I am interested in learning this semester.  I have decided to go back to school to enhance some of my technical skills specifically penetration testing and computer forensics.  And with many students, I'm taking this course as it is a requirement.  However, I am very interested in learning about HTML/CSS and JavaScript as I have not had any form training in those areas.
@@ -13,4 +13,3 @@ And now for the long and boring to most introduction to myself.  I am a veteran 
 I am looking forward to getting into the technical weeds.
 
 Roy
-rjones26@my.waketech.edu
