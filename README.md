@@ -19,7 +19,7 @@ This will be my public repo for course related assignments
      * Master of Science in Information Systems, Enterprise Resource Systems
      * Batchelor of Science in Computer Information Systems
      * Associate of Applied Science in Computer Programming
-    * Relevant certifications
+    * Relevant [certifications](https://www.credly.com/users/roy-jones.9134fc81)
       * Certified Information Systems Security Professional ([CISSP](https://www.isc2.org/certifications/cissp))
       * SecurityX (Formerly CASP+) ([CASP+](https://partners.comptia.org/certifications/securityx))
       * Certified Information Systems Auditor ([CISA](https://www.isaca.org/credentialing/cisa))
