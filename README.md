@@ -1,6 +1,6 @@
 # rjones26-SP2025.github.io
 
-Roy Jones, rjones26@my.waketech.edu
+Roy Jones, rjones26 [at] my [dot] waketech [dot] edu
 New GitHub repo for Wake Tech CTI-110
 This will be my public repo for course related assignments
 
