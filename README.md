@@ -37,4 +37,3 @@ This will be my public repo for course related assignments
    * Another mostly humor filled site to relax
 3. [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
    * I want to keep informed of all of the different certifications available in my career filled
-4. 
