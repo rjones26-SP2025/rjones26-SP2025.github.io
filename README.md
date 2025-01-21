@@ -1,15 +1,40 @@
 # rjones26-SP2025.github.io
 
-Assignment instructions:
- - introduce yourself
- - Include your name
- - favorite animal
- - something you are interested in learning this semester
+Roy Jones, rjones26@my.waketech.edu
+New GitHub repo for Wake Tech CTI-110
+This will be my public repo for course related assignments
 
-Hello, my name is Roy Jones.  A few of you may ask, the boxer?, and the answer would be no.
-I would like to start with what I am interested in learning this semester.  I have decided to go back to school to enhance some of my technical skills specifically penetration testing and computer forensics.  And with many students, I'm taking this course as it is a requirement.  However, I am very interested in learning about HTML/CSS and JavaScript as I have not had any form training in those areas.
-As for my favorite animal, I will have to say dogs.  For most of my life I have had at least one dog.  For me an my family, we have been able to see a noticible increase in our level of happiness when we have a dog versus not having one.
-And now for the long and boring to most introduction to myself.  I am a veteran of the US Air Force and a US Marine Corps brat.  I am currently working as an Information & CyberSecurity / Data Ethics & Privacy Audit Manager at GlaxoSmithKline (GSK).  In my current role, I perform internal, risk-based audits across the entire global company.  In the summer of 2024, I was part of the team that evaluated our internal Red Team.  As my offensive security skills are lacking, I looked for educational options and discovered WTCC's certificate programs.  This semester I am taking three classes that are pre-requisites to the two certificate programs.
-I am looking forward to getting into the technical weeds.
 
-Roy
+# About Me
+
+## My Interests
+1. Hobbies
+   * Spending time with my family
+   * Escape Rooms
+   * Tinkering with technology
+   * Online gaming, primarily fantasy/D&D related such as [EverQuest](https://www.everquest.com/home) and [Pantheon](https://www.pantheonmmo.com/)
+2. Academic interests
+   * Looking to expand my formal education and training in cybersecurity, specifically penetration testing/ethical hacking and cyber operations / digital forensics
+   * Relevant Degrees
+     * Master of Science in Information Systems, Enterprise Resource Systems
+     * Batchelor of Science in Computer Information Systems
+     * Associate of Applied Science in Computer Programming
+    * Relevant certifications
+      * Certified Information Systems Security Professional ([CISSP](https://www.isc2.org/certifications/cissp))
+      * SecurityX (Formerly CASP+) ([CASP+](https://partners.comptia.org/certifications/securityx))
+      * Certified Information Systems Auditor ([CISA](https://www.isaca.org/credentialing/cisa))
+      * Certified Information Privacy Technologist ([CIPT](https://iapp.org/certify/cipt/))
+3. Personal information
+   * Married for 34 years
+   * Two children, son and daughter
+   * Two dogs and two cats
+   * USAF Veteran
+
+## Websites I Recommend
+1. [Pleated-Jeans](https://pleated-jeans.com)
+   * Life is full of stress, so I make time to relax and unwind and what better way than humor
+2. [GoComics](https://www.gocomics.com/)
+   * Another mostly humor filled site to relax
+3. [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+   * I want to keep informed of all of the different certifications available in my career filled
+4. 
