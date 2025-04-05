@@ -30,18 +30,30 @@
 
         function calculateMortgage() {
             // Get the initial amount from the principal box
-            const principal = document.getElementById("principal").value;
+            const principal = document.getElementById("principal").value;  // RJ renamed principle variable to principal
 
             // update rate from the box
-            const rate = document.getElementById("rate").value / 100;
+            // const rate;                                                 // RJ commented out line and moved const to next line
+            const rate = document.getElementById("rate").value / 100;      // RJ added const to variable declaration
             // get the years to calculate
-            const years = document.getElementById("years").value;
+            const years = document.getElementById("years").value;          // RJ added missing "
 
             // Call the power funtion, pow, from Math
-            const monthlyRate = Math.pow(1 + rate, years * 12);
+            const monthlyRate = Math.pow(1 + rate, years * 12);            // RJ corrected function call from pw to pow
 
-            if (rate === 0) {
-                document.getElementById("result").innerText = "Interest rate cannot be zero.";
+            // RJ check for invalid values, e.g. <= 0, for principal
+            if (principal <= 0) {
+                document.getElementById("result").innerText = "Loan amount must be greater than zero.";
+                return;
+            }
+            // RJ check for invalid values, e.g. <= 0, for years
+            if (years <= 0) {
+                document.getElementById("result").innerText = "Loan term must be greater than zero.";
+                return;
+            }
+            // RJ check for invalid values, e.g. <= 0, for rate
+            if (rate <= 0) {
+                document.getElementById("result").innerText = "Interest rate must be greater than zero.";
                 return;
             }
 
