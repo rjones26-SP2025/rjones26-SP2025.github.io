@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mortgage Calculator</title>
+</head>
+<body>
+    <h1>Mortgage Calculator</h1>
+    <form id="mortgageForm">
+        <table>
+            <tr>
+                <td><label for="principal">Loan Amount ($):</label></td>
+                <td><input type="number" id="principal" required></td>
+            </tr>
+            <tr>
+                <td><label for="rate">Interest Rate (%):</label></td>
+                <td><input type="number" id="rate" step="0.01" required></td>
+            </tr>
+            <tr>
+                <td><label for="years">Loan Term (years):</label></td>
+                <td><input type="number" id="years" required></td>
+            </tr>
+        </table>
+        <button type="button" onclick="calculateMortgage()">Calculate</button>
+    </form>
+    <p id="result"></p>
+    
+    <script>
+
+        function calculateMortgage() {
+            // Get the initial amount from the principal box
+            const principal = document.getElementById("principle").value;
+
+            // update rate from the box
+            const rate;
+            rate = document.getElementById("rate").value / 100;
+            // get the years to calculate
+            const years = document.getElementById("years).value;
+
+            // Call the power funtion, pow, from Math
+            const monthlyRate = Math.pw(1 + rate, years * 12);
+
+            if (rate === 0) {
+                document.getElementById("result").innerText = "Interest rate cannot be zero.";
+                return;
+            }
+
+            const monthlyPayment = (principal * rate * monthlyRate) / (monthlyRate - 1);
+            document.getElementById("result").innerText = `Your monthly payment is $${monthlyPayment.toFixed(2)}`;
+        }
+    </script>
+</body>
+</html>
